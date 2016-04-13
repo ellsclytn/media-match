@@ -1,0 +1,23 @@
+{
+  "name": "media-match",
+  "version": "3.0.0",
+  "description": "Test css media queries in javascript. A faster polyfill for matchMedia support.",
+  "main": "media.match.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellsclytn/media-match.git"
+  },
+  "author": "David Knight",
+  "contributors": [{
+    "name": "Ellis Clayton",
+    "email": "ellis@ellisclayton.info"
+  }],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ellsclytn/media-match/issues"
+  },
+  "homepage": "https://github.com/ellsclytn/media-match"
+}
